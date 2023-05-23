@@ -14,7 +14,7 @@ class App extends React.Component {
             {    
                "name":"Aadinath"          
             }  
-         ]  
+         ]
       }  
    }  
    render() {  
@@ -46,4 +46,4 @@ class List extends React.Component {
       );  
    }  
 }  
-export default App;  
+export default App;
