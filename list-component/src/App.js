@@ -9,10 +9,10 @@ class App extends React.Component {
                "name":"Gajendra Jain"             
             },  
             {            
-               "name":"Shantinath"             
+               "name":"Aadi Jain"             
             },  
             {    
-               "name":"Aadinath"          
+               "name":"Arah Jain"          
             }  
          ]
       }  
@@ -32,7 +32,7 @@ class StudentName extends React.Component {
    render() {  
       return (  
          <div>  
-            <h1>Student Name Detail</h1>  
+            <h1>List Component</h1>  
          </div>  
       );  
    }  
