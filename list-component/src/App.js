@@ -6,7 +6,7 @@ class App extends React.Component {
          data:   
          [  
             {             
-               "name":"Gajendra"             
+               "name":"Gajendra Jain"             
             },  
             {            
                "name":"Shantinath"             
